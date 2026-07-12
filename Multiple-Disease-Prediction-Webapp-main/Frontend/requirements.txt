@@ -6,6 +6,7 @@ scikit-learn
 scipy
 joblib
 matplotlib
+seaborn
 plotly
 Pillow
 xgboost
